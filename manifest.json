@@ -1,0 +1,10 @@
+{
+    "name": "Live Crypto Price",
+    "description": "A simple Live diplay of four Cryptocurrency's price.",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "Crypto.html",
+        "default_icon": "Logo.png"
+    }
+}

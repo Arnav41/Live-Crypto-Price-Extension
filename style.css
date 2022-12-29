@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+html{
+    background-color: rgb(219, 219, 219);
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.container{
+    display: flex;
+    justify-content: center;    
+}
+
+
+/* dont wanna mess with these */
+.container .coin-price{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: -10px 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 3px rgb(1, 1, 1);
+    margin: 7px;
+}
+
+.container .coin-price .logo{
+    width: 70px;
+    margin-right: 10px;
+}
+.container .coin-price .logo img{
+    width: 100%;
+}
+.container .coin-price div{
+    display: block;
+}
+.container .coin-price div h1{
+    font-size: 20px;
+}
