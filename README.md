@@ -26,8 +26,7 @@ The extension currently supports the following cryptocurrencies:
 
 ## Credits
 
-- Cryptocurrency prices are fetched from the [CoinMarketCap API](https://coinmarketcap.com/api/).
-- The extension icon is made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/).
+- Cryptocurrency prices are fetched from https://www.coingecko.com/en/api.
 
 ## License
 
