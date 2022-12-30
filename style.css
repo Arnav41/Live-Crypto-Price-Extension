@@ -21,12 +21,10 @@ body{
 /* dont wanna mess with these */
 .container .coin-price{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: -10px 20px;
+    padding: 10px 20px;
     border-radius: 5px;
-    padding: 10px;
-    width: 400px;
+    padding: 20px;
+    width: 250px;
     margin-bottom: 10px;
     color: #eee;
     background-color: #333;
@@ -34,7 +32,6 @@ body{
 
 .container .coin-price .logo{
     width: 70px;
-    margin-right: 10px;
 }
 .container .coin-price .logo img{
     width: 70%;
